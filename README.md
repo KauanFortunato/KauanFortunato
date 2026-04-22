@@ -14,42 +14,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9258F3&center=true&vCenter=true&width=435&lines=3D+Tools+%2F+Three.js+Developer;Building+visual+editors;See+you+space+cowboy..." />
-</p>
-
 ---
 
-## Overview
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Projects
-
-* **3Forge**  
-  Visual 3D editor for building and exporting reusable Three.js components  
-
-* **PoggTech**  
-  Android application integrated with backend APIs and product ecosystem  
-
-* **Notes-PWA**  
-  Progressive Web App with offline-first behavior and installable support  
-
-</td>
-
-<td width="50%" valign="top">
-
-### About
-
-* Focused on 3D and interactive web experiences  
-* Building tools and real-world applications  
-* Working across frontend, backend, and mobile  
-
-</td>
-</tr>
-</table>
+- **[3Forge](https://github.com/KauanFortunato/3Forge)** — Visual 3D editor (Three.js)  
+- **[PoggTech](https://github.com/KauanFortunato/PoggTech)** — Android app + APIs  
+- **[Notes-PWA](https://github.com/KauanFortunato/Notes-PWA)** — Offline-first web app  
 
 ---
 
@@ -57,7 +28,7 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Frontend
 
@@ -72,7 +43,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Backend & Mobile
 
@@ -86,24 +57,6 @@
 </td>
 </tr>
 </table>
-
-
----
-
-## Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KauanFortunato&show_icons=true&theme=dark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFortunato&layout=compact&theme=dark" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KauanFortunato&theme=dark" />
-</p>
 
 ---
 
