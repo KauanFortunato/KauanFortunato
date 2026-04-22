@@ -14,6 +14,9 @@
   </a>
 </p>
 
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9258F3&center=true&vCenter=true&width=435&lines=3D+Tools+%2F+Three.js+Developer;Building+visual+editors;See+you+space+cowboy..." /> </p>
+
 ---
 
 ## Projects
